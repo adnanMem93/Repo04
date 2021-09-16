@@ -14,5 +14,5 @@ return quotient;
 
 }
 
-console.log(main(numOne,numTwo));    // change this line
+console.log(main(numOne, numTwo));    // change this line
 module.exports = main;

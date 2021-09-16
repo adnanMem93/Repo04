@@ -4,9 +4,9 @@ var firstNum = 6;
 var secondNum = 25;
 var thirdNum = 5.2;
 
-firstNum *=9;
-secondNum /=5;
-thirdNum *=10;
+firstNum *= 9;
+secondNum /= 5;
+thirdNum *= 10;
 
 // only change code above this line
 return {
