@@ -6,5 +6,5 @@ return product;
 
 }
     
-console.log(main(numOne,numTwo));
+console.log(main(numOne,numTwo));    // Change this line
 module.exports = main;
